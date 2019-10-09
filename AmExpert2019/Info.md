@@ -14,7 +14,7 @@ Based on previous transaction & performance data from the last 18 campaigns, pre
 
 # Dataset Description
 Here is the schema for the different data tables available. The detailed data dictionary is provided next.
-![Schema Diagram][Schema_Diagram.jpg]
+![Schema Diagram][https://github.com/Kartikeya-95/Hackathons/blob/master/AmExpert2019/Schema_Diagram.jpg]
 
 - train.csv - Train data containing the coupons offered to the given customers under the 18 campaigns
 
